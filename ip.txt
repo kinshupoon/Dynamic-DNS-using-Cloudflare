@@ -1,0 +1,1 @@
+vless://5b707862-5024-4801-9936-e9f6c40f2bcc@icook.hk:8443?encryption=none&security=tls&sni=test.hizcz.eu.org&fp=random&type=ws&host=test.hizcz.eu.org&path=%2F%3Fed%3D2048#test.hizcz.eu.org
